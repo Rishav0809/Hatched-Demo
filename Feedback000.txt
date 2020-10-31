@@ -1,0 +1,20 @@
+Webinar turned overall turned out to be very nice
+git is diffrent from OOP languages we learn at our schools, was totally a diffrent experience. 
+Introduction to github and learning to make pull requests and participating in Hacktober fest was the best part,
+The theory explanation was also done very well and kept the intrest to listen and learn in me.
+The most boring part of the webinar was perhaps to be honest the introduction to hatch.ed, I feel it could have been done in a better way. 
+The breaking of voices and connection issues probably made it more boring than it was supposed to be, 
+The hatch.ed startup seemed to be an amazing and innovative startup for it would help students who code for passion or for getting a good board percentage, the details
+could have been explained in a better way to attract the intrest.
+As for me 'Aatankwadi' failed to detoriate the enthusiasm any participant in the webinar as it met my expectations in the end.
+I would give a rating of 7.5/10 for the webinar and would attend if you guys do something like this in the future.
+
+#include <iostream>
+using namespace std;
+ 
+int main () {
+
+   cout << "Thank you for such an amazing session!";
+ 
+   return 0;
+}
